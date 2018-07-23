@@ -1,5 +1,0 @@
-3 observations regarding PySchool Data
-
-1)There is a positive correlation between school budget and score
-2)Smaller school sizes tended to have higher scores
-3)Students attending charter schools obtained higher scores. (assuming the NaN values in the "School Summary" section are Charter schools because my homework is a mess.)
